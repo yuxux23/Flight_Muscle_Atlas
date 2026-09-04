@@ -1,0 +1,152 @@
+{
+  "application": "ifm-gene-network-atlas",
+  "version": "1.0.1",
+  "builtAt": "2026-09-04T19:21:30.864Z",
+  "hosting": "GitHub Pages",
+  "publicationFolder": "docs",
+  "sourceSnapshot": "existing all-gene atlas",
+  "dataChange": "Published atlas meta.localOnly is false; scientific values are unchanged",
+  "totalBytes": 87350100,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 26,
+      "sha256": "2bfbf4d9886d8a9b8fb2a2cb496088aad9ef00dfae1a5be252b3acb11f292d0c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 56,
+      "sha256": "ca6badc03212cbcd4ba2909a983658a259ae0f2f66d894ee3365e675d483e3cd"
+    },
+    {
+      "path": "DATA_PUBLICATION.md",
+      "bytes": 2353,
+      "sha256": "ec3e9a7d829b02e6ed0d575b0b914bdcb87f594e8305908ddd2fa47b15de5a39"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6394,
+      "sha256": "033de30a457ab7068012ec341bf1051b6bd7f3b9ad9e66cd1561549fe5f34e0f"
+    },
+    {
+      "path": "START HERE.txt",
+      "bytes": 600,
+      "sha256": "e6cfef1a7c7e372e515679c17baa45bee639eadecba972f4c29b8c6dba2c9297"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 1589,
+      "sha256": "a2977ba672e32d2e8b371003a53972459bbf751a2be9a204977a04e22b6b6349"
+    },
+    {
+      "path": "app/asset-url.ts",
+      "bytes": 290,
+      "sha256": "8a6645728daaea978e21115faed5e64ee8511967746e65914ed0820343f527b8"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 77533,
+      "sha256": "a9dc14dc3e4f523f66a42aeab9d873b00a5ad2a2248d84a63353c7ca34bf21cf"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 178596,
+      "sha256": "7df73e26bb011e70129bb99acd13c1078e9d8601e189536f40f1797a257567e0"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/assets/index-BGTuxpf7.css",
+      "bytes": 75187,
+      "sha256": "5060982730d91c6f279823916f22a0447cde3d0d5c4783200755706cd82da07b"
+    },
+    {
+      "path": "docs/assets/index-CFrhKGZ-.js",
+      "bytes": 306106,
+      "sha256": "7ee4c1ec8ad8b01bfa2128dbb96cac0b2d1755be5d6cf354f22fe6a9e6376cec"
+    },
+    {
+      "path": "docs/data/all-pair-correlations.i16",
+      "bytes": 17086146,
+      "sha256": "9e7ad368a26f0a2c0aa01f2d8603def7077124c892e06352b76abe0cf7c3cccd"
+    },
+    {
+      "path": "docs/data/atlas.json",
+      "bytes": 24484205,
+      "sha256": "f9b90e5f1f179bca805aae2255fe834e952ea64c2fc69b0ce0660e7225ef5e4a"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 1108,
+      "sha256": "d2e97b7abda1707df791ac72aa1e320fe0cf519776b313fba2e74610cb342a40"
+    },
+    {
+      "path": "docs/og.png",
+      "bytes": 1660662,
+      "sha256": "975513b7b7440e5fea4871ea2a1330b0c65feafa38c129e0677c4d9e60f476d5"
+    },
+    {
+      "path": "github/index.html",
+      "bytes": 1005,
+      "sha256": "e370b37939831c75e6aff432e40220b81a172aca15777b9419edd3d415552cb8"
+    },
+    {
+      "path": "github/main.tsx",
+      "bytes": 172,
+      "sha256": "4d1f557de74ab88a8bbe0a0bcc5dcc87042b0a5e5e64fbbc825251acecf37e55"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1183,
+      "sha256": "42437f5d4573bdbbb15e87bc7980ba47171dbfccfa865ba87da1fe3b3b0f57bb"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "bytes": 225987,
+      "sha256": "426a6d70e0d24c65a646651ee900d13dc91a1e1a2a6e1b6fdda5a367fbb76b6e"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "bytes": 94,
+      "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+    },
+    {
+      "path": "public/data/all-pair-correlations.i16",
+      "bytes": 17086146,
+      "sha256": "9e7ad368a26f0a2c0aa01f2d8603def7077124c892e06352b76abe0cf7c3cccd"
+    },
+    {
+      "path": "public/data/atlas.json",
+      "bytes": 24484204,
+      "sha256": "ccb3fec846fb4a5c22b44aed4650fbfc85af664eccd1260ceed424c3da29fcf3"
+    },
+    {
+      "path": "public/og.png",
+      "bytes": 1660662,
+      "sha256": "975513b7b7440e5fea4871ea2a1330b0c65feafa38c129e0677c4d9e60f476d5"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 497,
+      "sha256": "3dc6504c05bb20825d49d0079b941711935166d5511059e874626eb6d97afab6"
+    },
+    {
+      "path": "tests/github-pages.test.mjs",
+      "bytes": 7585,
+      "sha256": "a3317c83a956985cefcdb860b44b85c307d9061c9f982a3db9fe25120f16dfa7"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 523,
+      "sha256": "a850fcd0590819aa32e3673c7770bc2b96abb26287b61d50293e78e039138d68"
+    },
+    {
+      "path": "vite.github.config.ts",
+      "bytes": 1191,
+      "sha256": "9ff2504c476dab9523db3f952ce3f46895f14f902827ae7f8096936483234eeb"
+    }
+  ]
+}
